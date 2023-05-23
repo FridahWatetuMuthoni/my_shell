@@ -1,3 +1,6 @@
-## Shell Project
+Simple shell program
+developped under ALX SE course
 
-#Shell Basics
+Authors are:
+Fridah Muthoni
+Archange Rwikwiza
